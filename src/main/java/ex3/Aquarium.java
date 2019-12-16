@@ -23,4 +23,5 @@ public class Aquarium {
 	public double calculerKgsNourritureParJour(){
 		return noms.size() * 0.2;
 	}
+	
 }
